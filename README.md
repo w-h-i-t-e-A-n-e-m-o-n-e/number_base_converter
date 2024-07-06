@@ -1,1 +1,1 @@
-# number_base_converter
+A simple number base converter made with Python, Tkinter, Sqlite3 and Matplotlib
